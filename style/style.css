@@ -1,0 +1,344 @@
+/* font-family: 'Dosis', sans-serif;
+font-family: 'Source Sans 3', sans-serif; */
+
+
+
+body {
+    background-color: gray;
+}
+
+/* start nav */
+.bg-body-tertiary {
+    background-color: #000324 !important;
+
+}
+
+.adjustNav {
+    display: flex;
+    justify-content: center;
+}
+
+.navFont {
+    font-family: 'Dosis', sans-serif;
+    color: #E5FEFF;
+    font-size: 20px;
+    display: flex;
+    align-items: end;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+/* end nav */
+/* start heroHeader */
+
+.heroHeader {
+    height: 500px;
+    background-image: url(../asset/header.jpg);
+    background-size: cover;
+    background-position: 50% 55%;
+}
+
+.heroHeaderDiv {
+    background-color: #000324;
+    opacity: 80%
+}
+
+.heroHeader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heroHeaderDiv {
+    padding: 2.42% 12.73% 4% 12.73%;
+}
+
+.heroFont1 {
+    color: #E5FEFF;
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+}
+
+.heroFont2 {
+    color: #E5FEFF;
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+/* end hero header */
+/* start welcome */
+.padding {
+    padding-left: 20.5%;
+    padding-right: 20.5%;
+}
+
+
+
+
+.welcomePageFont1 {
+    font-size: 35px;
+    font-family: 'Dosis', sans-serif;
+    color: #1A1B26;
+
+}
+
+.welcomePageFont2 {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 16px;
+    color: #1A1B26;
+}
+
+.welcomePagePic {
+    height: 416px;
+    width: 369px;
+    object-fit: cover;
+}
+
+.awardPlacement1 {
+    display: flex;
+    align-items: end;
+    justify-content: start;
+}
+
+.awardPlacement2 {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+
+.awardPlacement3 {
+    display: flex;
+    align-items: end;
+    justify-content: end;
+}
+
+.welcomePage {
+    background-color: white;
+    padding-top: 108px;
+    padding-bottom: 91px;
+}
+
+/* end welcome */
+
+/* start packages */
+.packagesFont1 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 25px;
+}
+
+.packagesFont2 {
+
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 16px;
+
+}
+
+.packagesFont3 {
+    font-size: 16px;
+    font-family: 'Source Sans 3', sans-serif;
+    line-height: 2.5;
+}
+
+/* .no-gutter>[class*='col-'] {
+    padding-right: 0;
+    padding-left: 0;
+} */
+
+.packagesImg {
+    height: 190px;
+    border-radius: 0%;
+}
+
+.btnEdit {
+    font-size: 20px;
+    background-color: #004CC7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ourRooms {
+    background-image: url(../asset/bg2.jpg);
+    padding-bottom: 112px;
+    padding-top: 31px;
+}
+
+.ourRoomsFont {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    font-family: 'Dosis', sans-serif;
+    padding-bottom: 29px;
+}
+
+/* end our room */
+/* start packages v2 */
+.hamsterFont1 {
+    font-size: 25px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.hamsterFont2 {
+    font-size: 20px;
+    font-family: 'Source Sans 3', sans-serif;
+    color: #1F51A8;
+}
+
+.hamsterFont3 {
+    font-size: 16px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.hamsterImg {
+    height: 234px;
+    width: 561px;
+    object-fit: cover;
+    object-position: 50% 10.5%;
+}
+
+.hamsterImg2 {
+    height: 234px;
+    width: 561px;
+    object-fit: cover;
+    object-position: 50% 30%;
+}
+
+.hamsterImg3 {
+    height: 234px;
+    width: 561px;
+    object-fit: cover;
+    object-position: 50% 72%;
+}
+
+.hamsterFont {
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Dosis', sans-serif;
+    padding-bottom: 19.5px;
+    padding-top: 106.5px;
+}
+
+
+.hamster {
+    padding-bottom: 95px;
+    background-color: white;
+}
+
+/* packages v2 end */
+/* amen start */
+.amenities {
+    padding-top: 45px;
+    padding-bottom: 169px;
+    background-image: url(../asset/bg.jpg);
+    background-size: cover;
+    background-position: 50% 70%;
+}
+
+.amenFont1 {
+    font-size: 35px;
+    color: white;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+
+
+}
+
+.amenFont2 {
+    font-size: 20px;
+    color: white;
+    font-family: 'Source Sans 3', sans-serif;
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 15px;
+}
+
+.amenFont3 {
+    font-size: 20px;
+    color: white;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.amenImg1 {
+    width: 150px;
+    height: 101px;
+}
+
+.amenImg2 {
+    width: 150px;
+    height: 104px;
+}
+
+.amenImg3 {
+    width: 100px;
+    height: 115px;
+}
+
+.amenImg4 {
+    width: 155px;
+    height: 110px;
+}
+
+/* amen end */
+/* reserve start */
+
+.reserve {
+    background-color: white;
+    padding-top: 101px;
+    padding-bottom: 101px;
+}
+
+.reserveFont {
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    color: white;
+    padding-top: 23px;
+
+}
+
+.reserveFont2 {
+    font-size: 16px;
+    font-family: 'Source Sans 3', sans-serif;
+    color: white;
+
+}
+
+.textBox {
+    width: 177px;
+    height: 30px;
+    border-radius: 0%;
+}
+
+.lastBtn {
+    border-radius: 0%;
+    width: 177px;
+    height: 30px;
+    font-size: 20px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.reserveImg {
+    background-image: url(../asset/hamsterreserve.jpg);
+    background-size: cover;
+    background-position: 50% 70%;
+    height: 414px;
+}
+
+/* reserve end */
+/* footer start */
+.footerCenter {
+    justify-content: center;
+    text-align: center;
+    font-size: 16px;
+    color: #E5FEFF;
+}
+
+.footer {
+    padding-top: 24px;
+    padding-bottom: 89px;
+    background-color: #000324;
+}
+
+/* footer end */
